@@ -1,0 +1,6 @@
+{
+    "guildId": "YOUR-GUILDID",
+    "youtubeChannelId": "YOUR-YOUTUBECHANNEL-ID",
+    "notificationChannelId": "NOTIFICATION-CHANNELID",
+    "newVideoMessage": "YOUR MESSAGE WHEN NEW VID POSTED": "Latest video is {url}"
+}
